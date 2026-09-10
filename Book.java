@@ -1,5 +1,5 @@
 //Taylor DeBerry and Xandra Quevedo
-//Book object class containing constructors,
+//Book object class containing constructors, getters, setters, and toString methods
 
 public class Book {
     //Basic book attributes
