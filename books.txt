@@ -1,0 +1,14 @@
+House of Leaves,Mark Z. Danielewski,Horror,0.0
+Pride and Prejudice,Jane Austen,Romance,3.95
+The School for Good and Evil,Soman Chainani,Fantasy,3.99
+The Fault in Our Stars,John Green,Drama,4.2
+The Shining,Stephen King,Horror,4.2
+The Notebook,Nicholas Sparks,Romance,4.2
+Diary of a Wimpy Kid,Jeff Kinney,Comedy,4.3
+Good Omens,Terry Pratchett,Comedy,4.3
+IT,Stephen King,Horror,4.3
+The Ender's Game,Orson Scott Card,Sci-Fi,4.3
+A Man Called Ove,Fredrik Backman,Drama,4.4
+The Secret Garden,Frances Hodgson Burnett,Children's novel,4.5
+Dune,Frank Herbert,Sci-Fi,4.5
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,4.8
